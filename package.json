@@ -4,6 +4,8 @@
   "private": true,
   "homepage": "https://Tigra26.github.io/react-hw-002-feedback/",
   "dependencies": {
+    "@emotion/react": "^11.11.3",
+    "@emotion/styled": "^11.11.0",
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
     "react-scripts": "5.0.1",
